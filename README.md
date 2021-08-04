@@ -2,7 +2,7 @@
 
 1. Download `libffmpeg.so`
 	```sh
-	curl -L https://raw.githubusercontent.com/iago-mendes/setup-widevine-linux/main/download/libffmpeg.so > ~/Download/libffmpeg.so
+	curl -L https://raw.githubusercontent.com/iago-mendes/setup-widevine-linux/main/download/libffmpeg.so > ~/Downloads/libffmpeg.so
 	```
 
 2. Copy `libffmpeg.so` to the browser folder
