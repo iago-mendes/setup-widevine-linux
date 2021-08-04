@@ -16,4 +16,6 @@
 ## Possible browser folders
 
 - Opera
-	> /usr/lib/x86_64-linux-gnu/opera
+	```sh
+		/usr/lib/x86_64-linux-gnu/opera
+	```
