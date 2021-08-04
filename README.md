@@ -17,5 +17,5 @@
 
 - Opera
 	```sh
-		/usr/lib/x86_64-linux-gnu/opera
+	/usr/lib/x86_64-linux-gnu/opera
 	```
